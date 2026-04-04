@@ -15,3 +15,4 @@
 - quick thought captured [2026-04-02 09:39:04] 
 - misc update [2026-04-03 09:37:04] 
 - misc update [2026-04-03 09:38:18] 
+- research follow-up needed [2026-04-04 09:37:04] 
