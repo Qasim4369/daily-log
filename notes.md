@@ -44,3 +44,4 @@
 - misc update [2026-05-10 09:43:18] 
 - brainstorm session notes [2026-05-11 09:37:03] 
 - brainstorm session notes [2026-05-11 09:38:51] 
+- research follow-up needed [2026-06-03 09:37:03] 
