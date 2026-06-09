@@ -56,3 +56,4 @@
 - review pending items [2026-06-08 09:37:04] 
 - review pending items [2026-06-08 09:37:50] 
 - review pending items [2026-06-08 09:38:37] 
+- research follow-up needed [2026-06-09 09:37:03] 
