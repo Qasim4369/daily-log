@@ -152,3 +152,4 @@ Auto-maintained streak repo.
 - quick thought captured [2026-08-15 09:46:30] 
 - misc update [2026-08-16 09:37:06] 
 - misc update [2026-08-16 09:39:40] 
+- research follow-up needed [2026-08-17 09:37:06] 
